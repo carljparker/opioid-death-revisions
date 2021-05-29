@@ -1,0 +1,32 @@
+
+(Please forward this message to the Seattle/King County Public Health Medical Examiners office.)
+
+I'm writing to ask about some recent changes in the data presented on the King County Fatal Overdose Dashboard.
+
+I'm a graduate student at the University of Washington studying data science, and I have been following the data on the King County Fatal Overdose Dashboard at the following URL:
+
+https://kingcounty.gov/depts/health/examiner/services/reports-data/overdose.aspx
+
+Recently, I noticed that the numbers for drug & alcohol poisoning deaths have been revised down for all years from 2008-2020. In fact, the numbers for 2020 were revised down twice. 
+
+Can you provide some context as to what motivated the revisions to these numbers?
+
+Below I've listed, for each year, the original numbers and the revised-down numbers.
+
+2008:  272 -> 266
+2009:  265 -> 260
+2010:  260 -> 248
+2011:  247 -> 245
+2012:  278 -> 272
+2013:  315 -> 312
+2014:  326 -> 319
+2015:  329 -> 322
+2016:  344 -> 336
+2017:  381 -> 368
+2018:  417 -> 403
+2019:  434 -> 422
+2020:  540 -> 513 -> 511
+
+:: Carl Parker
+:: carljparker@gmail.com
+
